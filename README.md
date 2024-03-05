@@ -1,16 +1,31 @@
-### Hi there 👋
+# 여가온; P를 위한 (제주도) 여행 계획 관리 서비스
+**여가온**은 여행을 떠나는 여러분들을 위한 스마트 플래너입니다. 여러분만을 위한 특별한 여행 경험을 만들어드립니다.
 
-<!--
-**semicolonsknu/semicolonsknu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 공지사항
+- 현재 공지사항이 없습니다.
 
-Here are some ideas to get you started:
+## 프로젝트 개요
+더 자세한 서비스 소개는 [여기](https://www.notion.so/4e14cd16a2a94949b10b8028b0e2418b?pvs=21)에서 확인하실 수 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 기능 통합 정리
+### 회원가입/로그인
+- SNS로그인: OAuth2 (카카오, 구글, 네이버)
+
+### 친구 관리
+- 친구 추가
+- 친구 삭제
+
+### 모임 관리
+- 여행자 추가
+- 여행자 삭제
+- 대화 기능 관리
+
+### 여행 관리
+- 체크리스트: 알림
+- 대중교통/자동차 분리 필요
+- 경로 설정
+    - 가고 싶은 장소 누르기 (시간 설정, 웨이팅 시간)
+    - 정렬 (개인 수정, 혹은 AI 추천 경로)
+
+### 긴급
+- 약국, 병원 리스트
